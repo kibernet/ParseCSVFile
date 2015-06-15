@@ -15,3 +15,5 @@ rm -fr "$exportPath"
 
 
 #please use command of --help
+
+#you use ParseCSVFile.sh file.
